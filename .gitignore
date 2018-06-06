@@ -1,0 +1,11 @@
+Saved/
+Intermediate/
+Build/
+Binaries/
+ipch/
+.vs
+*.suo
+UE4-QTE-system.VC.VC.opendb
+UE4-QTE-system.VC.db
+UE4-QTE-system.sln
+desktop.ini
